@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    padding-bottom: 20px;
+    border-bottom: 4px solid;
+}
+img {
+    width: 300px;
+    height: 300px ;
+
+}
+h4 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 280px;
+    padding: 10px;
+    margin-top: 0px;
+}
+.container {
+    display: grid;
+	place-items: center
+  }
+a:hover div h4{
+    background-color: gray;
+}
