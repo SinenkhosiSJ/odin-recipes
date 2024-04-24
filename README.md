@@ -1,8 +1,8 @@
 # odin-recipes
-An recipe website. 
-
-It will include this features:
--Images
--Links
--lists 
--html elements
+An recipe website. <br>
+<br>
+It will include this features: <br>
+-Images <br>
+-Links <br>
+-lists <br>
+-html elements <br>
